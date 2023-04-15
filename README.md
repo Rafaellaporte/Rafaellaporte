@@ -8,9 +8,6 @@
 
 
 
- <a href="https://github.com/rafaellaporte/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaellaporte&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/rafaellaporte/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaporte&layout=compact&theme=buefy&hide_border=true" /></a>
-
-
 <div style="display: inline_block">
   <br>
   <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
