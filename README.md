@@ -7,10 +7,12 @@
 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaellaporte&show_icons=true&count_private=true&hide_border=true&title_color=836FFF&icon_color=FF00FF&text_color=DDA0DD&bg_color=1C1C1C" alt="Help Nerd github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaporte&layout=compact&hide_border=true&title_color=836FFF&text_color=DDA0DD&bg_color=1C1C1C" />
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaellaporte&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaporte&layout=compact)](https://github.com/rafaellaporte/github-readme-stats)
+
+
+
 
 <div align="center">
   <br>
