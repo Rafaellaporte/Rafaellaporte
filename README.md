@@ -8,8 +8,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaellaporte&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaporte&layout=compact)](https://github.com/rafaellaporte/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaellaporte&show_icons=true&theme=dracula&border_color=696969)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaporte&layout=compact&title_color=EC688D&text_color=FFFEFE&bg_color=282A36&border_color=696969)](https://github.com/rafaellaporte/github-readme-stats)
 
 
 
