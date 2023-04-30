@@ -1,4 +1,4 @@
-### Olá me chamo Rafael, trabalho como Programador Full Stack.
+### Olá me chamo Rafael, trabalho como Programador Full Stack e este é o meu portifólio! 👋.
 
 - 🔭 Hoje trabalho com front-end e back-and
 - 🌱 Estudando Dart e Flutter
