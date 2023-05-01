@@ -1,9 +1,8 @@
-### Olá me chamo Rafael, trabalho como Programador Full Stack e este é o meu portifólio! 👋.
+### Hello, my name is Rafael, I work as a Full Stack Programmer and this is my portfolio! 👋.
 
-- 🔭 Hoje trabalho com front-end e back-and
-- 🌱 Estudando Dart e Flutter
-- 📫 Contate-me via email: contato@rafaellaporte.com.br
-- 😄 Pronomes: ele/dele
+- 🔭 Today I work with front-end and back-and
+- 🌱 Studying Dart e Flutter
+- 📫 Contact-me email: contato@rafaellaporte.com.br
 
 
 
