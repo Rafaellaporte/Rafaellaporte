@@ -1,8 +1,8 @@
 ### Hello, my name is Rafael, I work as a Full Stack Programmer and this is my portfolio! 👋.
 
-- 🔭 Today I work with front-end and back-and
-- 🌱 Studying Dart e Flutter
-- 📫 Contact-me email: contato@rafaellaporte.com.br
+- 🔭 I'm currently working on front-end and back-and
+- 🌱 I'm currently learning Dart and Flutter
+- 📫 how to reach me: contato@rafaellaporte.com.br
 
 
 
