@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on front-end and back-and
 - 🌱 I'm currently learning Dart and Flutter
-- 📫 how to reach me: contato@rafaellaporte.com.br
+- 📫 how to reach me: contato@primedev.xyz
 
 
 
