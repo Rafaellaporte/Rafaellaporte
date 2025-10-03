@@ -1,6 +1,5 @@
 ### Hello, my name is Rafael. I am a Junior Cybersecurity Analyst in training, and this is my portfolio. 👋.
 
-- 🔭 I'm currently working on front-end and back-and
 - 📫 how to reach me: rafaellaporte_dev@outlook.com
 
 
